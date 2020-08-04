@@ -1,6 +1,6 @@
 # aerobuck
 
-a free/libre open source aeroponic plant propagation tool designed to utilize a standard 5-gallon bucket to realize an aeroponic cloner which functions well and requires minimal cost or effort.  
+A free/libre open source aeroponic plant propagation tool designed to utilize a standard 5-gallon bucket to realize a system which is efficient in use and construction.
 
 ## Overview
 
@@ -14,9 +14,9 @@ This repository will provide the design files in STEP form to allow the design t
 
 ## Bill of Materials  
 
-* printed manifold  
-* printed lid
-* 360 degree 10-32 / M5-0.8 sprayer nozzles (botanicare micro sprayer, xGarden mister, etc) 
+* [printed manifold](aerobuck_manifold.stl)  
+* [printed lid](aerobuck_lid.stl)  
+* six (6) 360 degree 10-32 / M5-0.8 sprayer nozzles (botanicare micro sprayer, xGarden mister, etc) 
 * 5 gallon bucket  
 * 48mm neoprene cloner collars (commercially available or self made)
 * submersible pump with 1/2" female threaded  upwards-facing outlet (ecoplus 396 has been tested, others may work as well)
